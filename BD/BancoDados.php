@@ -6,8 +6,8 @@ class BancoDados{
     private $conn;
      
     private $host = 'localhost';
-    private $user = 'id16040315_lev';
-    private $pass = 'vOC1Kmdb-sY[{q3-';
+    private $user = '*********';
+    private $pass = '***********';
     private $dbname = 'id16040315_bancolev';
    
 
